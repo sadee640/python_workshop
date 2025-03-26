@@ -1,7 +1,5 @@
-a = int(input("enter number : "))
-if(a>5):{
-    print("greater than 5")
-}
-else:{
-    print("less than 5")
-}
+x = 1
+while x <= 100:
+    if x%2== 1:
+        print(x)
+    x = x + 1
