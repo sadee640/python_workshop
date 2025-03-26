@@ -1,2 +1,2 @@
 
-print("kdnm jayasanka \n wayamba university \n229082")
+print("kdnm jayasanka \n wayamba university of srilanka \n229082")
