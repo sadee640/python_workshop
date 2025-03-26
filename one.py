@@ -1,1 +1,2 @@
-print("h")
+print("hi")
+print("python workshop")
